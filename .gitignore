@@ -1,0 +1,12 @@
+.*.swp
+*.tmproj
+ext/qrtools/*.o
+ext/qrtools/*.dll
+ext/qrtools/Makefile
+ext/qrtools/*.log
+ext/qrtools/*.bundle
+ext/qrtools/*.a
+ext/qrtools/*.so
+ext/qrtools/conftest.dSYM
+tags
+.rake_tasks
